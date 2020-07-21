@@ -5,4 +5,4 @@ MyLevelUp
 ------
 *CountingHelper.cs*
 
-The main script used in the "Counting Game" for the MyLevelUp application. I am wholey responsible for this version of the script, so it's a great example of my production-level coding style.
+The main script used in the "Counting Game" for the MyLevelUp application, developed in Unity. I am wholey responsible for this version of the script, so it's a great example of my production-level coding style.
